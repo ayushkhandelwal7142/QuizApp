@@ -8,7 +8,8 @@ The app is based on Firebase that fetches questions of particular date from the 
 5. Recycler view, Fragmnets, Date Picker, Navigation Drawer.
 
 Getting Started Screen:
-![getting_started](https://user-images.githubusercontent.com/102464852/161468534-1c10a92e-d50e-44ed-9887-0ce39aeeae51.jpg width = "250" height = "250")
+<img src = "https://user-images.githubusercontent.com/102464852/161468534-1c10a92e-d50e-44ed-9887-0ce39aeeae51.jpg" width = "250" height = "250">
+![getting_started]( width = "250" height = "250")
 
 Login and Signup Screen:
 ![login_screen](https://user-images.githubusercontent.com/102464852/161468643-4c71602e-39bc-4249-bfaf-8ad5dd812db3.jpg) ![signup_screen](https://user-images.githubusercontent.com/102464852/161468652-e62f9f39-d127-4be8-ac18-a9d232939c32.jpg)

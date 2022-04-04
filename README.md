@@ -11,8 +11,7 @@ Getting Started Screen:
 ![getting_started](https://user-images.githubusercontent.com/102464852/161468534-1c10a92e-d50e-44ed-9887-0ce39aeeae51.jpg)
 
 Login and Signup Screen:
-![login_screen](https://user-images.githubusercontent.com/102464852/161468643-4c71602e-39bc-4249-bfaf-8ad5dd812db3.jpg)
-![signup_screen](https://user-images.githubusercontent.com/102464852/161468652-e62f9f39-d127-4be8-ac18-a9d232939c32.jpg)
+![login_screen](https://user-images.githubusercontent.com/102464852/161468643-4c71602e-39bc-4249-bfaf-8ad5dd812db3.jpg) ![signup_screen](https://user-images.githubusercontent.com/102464852/161468652-e62f9f39-d127-4be8-ac18-a9d232939c32.jpg)
 
 Quizzes Screen:
 ![main_screen](https://user-images.githubusercontent.com/102464852/161468697-ee6769e8-8145-468c-8934-8f87077c24b6.jpg)

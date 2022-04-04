@@ -13,7 +13,7 @@ Getting Started Screen:
 
 Login and Signup Screen:
 
-  <img src = "https://user-images.githubusercontent.com/102464852/161468643-4c71602e-39bc-4249-bfaf-8ad5dd812db3.jpg" width = "250" height = "500">  <img src = "https://user-images.githubusercontent.com/102464852/161468652-e62f9f39-d127-4be8-ac18-a9d232939c32.jpg" width = "250" height = "500">
+  <img src = "https://user-images.githubusercontent.com/102464852/161468643-4c71602e-39bc-4249-bfaf-8ad5dd812db3.jpg" width = "250" height = "500">       <img src = "https://user-images.githubusercontent.com/102464852/161468652-e62f9f39-d127-4be8-ac18-a9d232939c32.jpg" width = "250" height = "500">
 
 Quizzes Screen:
 
@@ -21,8 +21,7 @@ Quizzes Screen:
 
 Questions Screen:
 
-<img src = "https://user-images.githubusercontent.com/102464852/161468715-3e177f8e-b537-41a9-95a7-6dc794d07928.jpg" width = "250" height = "500">
-<img src = "https://user-images.githubusercontent.com/102464852/161468719-c445c0b0-109a-421a-9967-ba5cdd5f3048.jpg" width = "250" height = "500">
+<img src = "https://user-images.githubusercontent.com/102464852/161468715-3e177f8e-b537-41a9-95a7-6dc794d07928.jpg" width = "250" height = "500">         <img src = "https://user-images.githubusercontent.com/102464852/161468719-c445c0b0-109a-421a-9967-ba5cdd5f3048.jpg" width = "250" height = "500">
 
 Result Screen: 
 

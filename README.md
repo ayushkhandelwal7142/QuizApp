@@ -13,8 +13,7 @@ Getting Started Screen:
 
 Login and Signup Screen:
 
-  <img src = "https://user-images.githubusercontent.com/102464852/161468643-4c71602e-39bc-4249-bfaf-8ad5dd812db3.jpg" width = "250" height = "500">
-   <img src = "https://user-images.githubusercontent.com/102464852/161468652-e62f9f39-d127-4be8-ac18-a9d232939c32.jpg" width = "250" height = "500">
+  <img src = "https://user-images.githubusercontent.com/102464852/161468643-4c71602e-39bc-4249-bfaf-8ad5dd812db3.jpg" width = "250" height = "500">  <img src = "https://user-images.githubusercontent.com/102464852/161468652-e62f9f39-d127-4be8-ac18-a9d232939c32.jpg" width = "250" height = "500">
 
 Quizzes Screen:
 
@@ -31,5 +30,5 @@ Result Screen:
 
 Date Picker:
 
-img src = "https://user-images.githubusercontent.com/102464852/161468738-d68e29b2-aab5-4bb5-8622-2049d6ec4195.jpg" width = "250" height = "500">
+<img src = "https://user-images.githubusercontent.com/102464852/161468738-d68e29b2-aab5-4bb5-8622-2049d6ec4195.jpg" width = "250" height = "500">
 
